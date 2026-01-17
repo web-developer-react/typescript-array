@@ -1,2 +1,2 @@
-# js-typescript-array
+# typescript-array
 The meaning of arrays
