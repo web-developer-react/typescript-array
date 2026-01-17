@@ -1,2 +1,2 @@
 # typescript-array
-The meaning of arrays
+The meaning and variety of arrays
